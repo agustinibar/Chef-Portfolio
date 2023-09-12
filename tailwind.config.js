@@ -21,6 +21,7 @@ export default {
       fontFamily: {
         'Barlow': ['Barlow', 'sans-serif'],
         'Fraunces': ['Fraunces', 'serif'],
+        'Amatic': ['Amatic SC', 'cursive'],
       },
       screens:{
         'tablet': '700px',
