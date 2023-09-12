@@ -12,7 +12,7 @@ function App() {
       <Main />
       <About />
       <TestimonialContainer />
-      <Gallery />
+      {/* <Gallery /> */}
       <Footer />
     </main>
   )
