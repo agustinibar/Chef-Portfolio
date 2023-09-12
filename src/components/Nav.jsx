@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import burgerMenu from '../assets/images/icon-hamburger.svg'
+import { NavLink } from 'react-router-dom';
 
 export const Nav = () => {
 
@@ -21,13 +22,15 @@ export const Nav = () => {
         <li className='cursor-pointer'>About</li>
         <li className='cursor-pointer'>Services</li>
         <li className='cursor-pointer'>Projects</li>
+        <NavLink to={`/contact`}>
         <li className='cursor-pointer bg-Yellow  w-[140px] h-[56px] grid place-content-center rounded-full text-Very-dark-desaturated-blue uppercase font-Fraunces 
-        
         tablet:bg-White tablet:hover:text-white tablet:hover:bg-opacity-25'>Contact</li>
+        </NavLink>
       </ul>
       <div className='cursor-pointer tablet:hidden' onClick={handleClick}>
         <img src={burgerMenu} alt="menu hamburger" />
       </div>
     </nav>
   )
-}
+};
+

@@ -1,5 +1,6 @@
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
+
 export const Footer = () => {
   return (
     <footer className='bg-[#90D4C6] py-16 px-10 text-center'>
