@@ -30,7 +30,8 @@ const LeadershipStories = () => {
       By the way, none of them were professionals. Jorge Luis, our supervisor, and I focused on hiring staff based on their humanity and character. Jorge taught me that a proactive, loyal, and good-hearted person mattered more than an egocentric and troublesome cook. That truly changed me as a leader, as a person, and as a chef.
       </p>
      <p className='text-white mb-4'>
-        Luego de un año trabajando para Lowell’s sentí que debía seguir creciendo y ahí ya había completado todos mis objetivos, había tocado un techo. Por eso cuando surgio la oportunidad de estar a cargo de la apertura de un nuevo restaurante gourmet, sin pensarlo dos veces me adentre en la aventura. Alli cocinamos recetas simples pero con ingredientes de alta calidad y altas técnicas de cocina. Durante unos meses me encargue de capacitar a quien seria el jefe de cocina y a los cocineros, luego de que la maquina estuviera en marcha decidi comenzar a buscar nuevamente un empleo que retara mis nuevas habilidades adquiridas. 
+     After a year working for Lowell's I felt that I should continue growing and there I had already completed all my objectives, I had hit a ceiling. That's why when the opportunity arose to be in charge of opening a new gourmet restaurant, without thinking twice I jumped into the adventure. There we cook simple recipes but with high quality ingredients and high cooking techniques. For a few months I was in charge of training the head chef and the cooks. After the machine was up and running, I decided to start looking again for a job that would challenge my newly acquired skills.
+
     </p>
            
         
