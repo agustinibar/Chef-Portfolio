@@ -1,11 +1,9 @@
 import { Footer } from '../components/Footer';
 import { Header } from '../components/Header';
-import image1 from '../assets/images/proudDishwasher.png';
-import mallorca from '../assets/images/mallorca.png'
 import { Link } from 'react-router-dom';
 import team from '../assets/images/leadership.jpeg';
 import brochettes from '../assets/images/brochettes.png';
-import donjulio from '../assets/images/donjulio.png';
+import donjulio from '../assets/images/donJulio.png';
 
 const LeadershipStories = () => {
   return (
