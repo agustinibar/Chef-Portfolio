@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 export const Text = ({order, title, text, color}) => {
   return (
     <div className={`${order} text-center px-6 flex flex-col place-content-around py-6 h-[437px]
@@ -16,7 +18,9 @@ export const Text = ({order, title, text, color}) => {
         {text}
       </p>
       <div className="relative">
+        <NavLink to={`/background/${order}`}>
         <button className="font-Fraunces uppercase">Learn more</button>
+        </NavLink>
         <div className={`${color} bg-opacity-25 w-[137px] h-[10px] absolute bottom-0 -z-10 rounded-full left-0 right-0 mx-auto 
         xl:mx-0 xl:left-[-10px]`}></div>
       </div>

@@ -44,6 +44,7 @@ export const About = () => {
         />
 
         <ImageText
+          id='none'
           imgMobile={graphicDesingMobile}
           imgDesktop={graphicDesingDesktop}
           title='Always learning'
@@ -51,6 +52,7 @@ export const About = () => {
         />
 
         <ImageText
+          id='foodiesitelab'
           imgMobile={photographyMobile}
           imgDesktop={photographyDesktop}
           title='FOODIE SITE LAB'
