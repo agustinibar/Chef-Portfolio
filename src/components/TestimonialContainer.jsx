@@ -24,8 +24,8 @@ export const TestimonialContainer = () => {
         />
         <Testimonial
           img={jennieImg}
-          testimonial='Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!'
-          name='Luisina Monnin'
+          testimonial='Incredible end result! Highly recommended!'
+          name='Noel Gomez'
           position='General Manager'
         />
       </div>
